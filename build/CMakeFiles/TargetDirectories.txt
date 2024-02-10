@@ -1,0 +1,3 @@
+/home/long/code/myLeetCode/myLeetCode/build/CMakeFiles/rebuild_cache.dir
+/home/long/code/myLeetCode/myLeetCode/build/CMakeFiles/edit_cache.dir
+/home/long/code/myLeetCode/myLeetCode/build/CMakeFiles/hello.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hello.dir/src/hello.cpp.o CMakeFiles/hello.dir/src/log/log.cpp.o CMakeFiles/hello.dir/src/solution/solution.cpp.o  -o hello  -lspdlog -lpthread 
